@@ -1,0 +1,22 @@
+{
+  "name": "navigate-recovery-platform1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "mocha ./test/**/* --verbose"
+  },
+  "dependencies": {
+    "chai": "^4.3.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "mocha": "^8.3.0",
+    "morgan": "~1.9.1",
+    "next.js": "^1.0.3",
+    "react": "^17.0.1",
+    "request": "^2.88.2"
+  }
+}
